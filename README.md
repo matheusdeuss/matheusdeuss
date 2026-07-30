@@ -1,73 +1,64 @@
-# 👋🏾 Matheus Filipe de Deus
-
-**`Desenvolvedor focado em soluções aplicando dados e IA em produtos`**
-
-## Sobre mim
-* Desenvolvo aplicações práticas usando **LLMs, LangChain e embeddings**.
-* Bolsista integral em **Sistemas de Informação pela PUC Minas**, com base técnica formada no **CEFET-MG**.
-* Busco construir soluções reais aplicando IA, explorando dados, agentes, pipelines e integrações.
-* Documentando estudos e projetos em público como parte da minha jornada.
-* Top 3 – Ruptura 2025 (UFMG), hackathon focado em soluções com IA.
+<h1 align="center">Olá, eu sou o Matheus Deus 👋🏾</h1> <h3 align="center">Construindo sistemas de produção com LLMs — RAG, agentes e integrações MCP</h3> <p align="center"> 🎓 Sistemas de Informação @ PUC Minas (bolsista integral) · base técnica no CEFET-MG<br/> 💼 AI Engineering Intern @ Localiza&Co — GenAI Enabling Team<br/> 🔬 Pesquisa em NLP/Embeddings @ Sólides Tecnologia </p>
 
 ---
+
+## 🧭 Sobre mim
+ 
+- Atuo no time de **GenAI Enabling** da Localiza&Co (maior empresa de mobilidade da América Latina), construindo **pipelines RAG, sistemas multiagente, pipelines de avaliação e integrações MCP** em produção.
+- Pesquisador de iniciação científica em **NLP, embeddings e RAG** aplicados a recomendação de desenvolvimento profissional, na Sólides Tecnologia.
+- Documento minha jornada como dev/IA em público e conteúdos em vídeo para devs brasileiros.
 
 ## ⚡ Skill Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,aws,gcp,git,github,fastapi,anaconda,notion\&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,cs,dotnet,aws,gcp,azure,git,github,docker,mongodb,postman,npm,obsidian\&theme=light)](https://skillicons.dev)
 
-**Também trabalho com:**
-
-* 🧠 **Frameworks:** LangChain, Pandas, NumPy
-* 📦 **LLMs:** OpenAI, Google Gemin
-* 🔍 **Vetores & RAG:** Pinecone, Supabase Vector Store
-* 🚀 **DevOps & MLOps:** observabilidade, CI/CD simples, criação de pipelines
-* 🔗 **APIs & Integrações:** FastAPI, webhooks, orquestração de agentes
+**LLM Engineering**
+- 🧠 **Orquestração:** LangChain, LangGraph
+- 📦 **Providers:** OpenAI, Anthropic, Google Gemini, Amazon Bedrock, Deepseek, Kimi K3
+- 🔍 **Vector Stores:** ChromaDB, FAISS, Pinecone, Supabase Vector Store
+- 🚀 **MLOps/DevOps:** TrueFoundry (LLM Gateway), Datadog (observabilidade), Azure DevOps, CI/CD
+- 📊 **Dados:** Pandas, NumPy
 
 ---
+
+## 🚀 Destaques profissionais
+Alguns dos sistemas de IA generativa que ajudei a colocar em produção durante meu estágio:
+- **Agente de Análise Climática** — agente LLM que reduziu de forma significativa o tempo de análise manual, hoje usado em centenas de sessões recorrentes.
+- **Agente Enablin** — self-service de componentes de IA homologados para outros times internos.
+- **Agente de Suporte Jurídico** — apoio a triagem e consulta de informações legais via LLM.
+- **Agente de FinOps** — apoio a decisões de custo de infraestrutura de IA.
+- **Capacitação em IA generativa** — facilitação de alfabetização em IA para dezenas de lideranças internas.
+*(Repositórios privados da empresa — projetos pessoais equivalentes abaixo)*
 
 # 🔥 Projetos — Destaques
 
 <table>
   <tr>
       <td align="center" width="33%">
-      <a href="https://github.com/0matheusfilipe/gerador-planos-aula-genai">
+      <a href="https://github.com/matheusdeuss/bjj-faixa-branca-rag">
         <img src="https://img.hotimg.com/agentreact.png"
-             alt="Gerador Planos de Aula c/ GenAI"
+             alt="Agente RAG para Posições de BJJ (Faixa Branca)"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Planos de Aula c/ IA</b><br/>
-      <sub>Aplicação para gerar planos de aula personalizados utilizando um modelo de linguagem.</sub><br/>
-      🔗 <a href="https://github.com/0matheusfilipe/gerador-planos-aula-genai">Repo</a>
+      <b>Agente RAG para Posições de BJJ (Faixa Branca)</b><br/>
+      <sub>Projeto RAG utilizando LangChain para construir um agente conversacional que responde perguntas sobre posições básicas de Jiu-Jitsu para faixas brancas, com base em um manual especializado em PDF.</sub><br/>
+      🔗 <a href="https://github.com/matheusdeuss/bjj-faixa-branca-rag">Repo</a>
       <br/>
-      <sub>Tags: Streamlit, LangChain, LLMs</sub>
+      <sub>Tags: RAG, LangChain, OpenAI</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/0matheusfilipe/agente-re-act">
+      <a href="https://github.com/matheusdeuss/gerador-planos-aula-genai">
         <img src="https://img.hotimg.com/agentreact.png"
-             alt="Agente ReAct"
+             alt="Gerador de planos de aulas com GenAI"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Agente ReAct com LangChain</b><br/>
-      <sub>Agente capaz de usar ferramentas, consultar dados e tomar decisões com raciocínio estruturado.</sub><br/>
-      🔗 <a href="https://github.com/0matheusfilipe/agente-re-act">Repo</a>
+      <b>🎓 Gerador de Planos de Aula com IA</b><br/>
+      <sub>Aplicação simples em Streamlit + LangChain + OpenAI para gerar planos de aula personalizados utilizando um modelo de linguagem.</sub><br/>
+      🔗 <a href="https://github.com/matheusdeuss/gerador-planos-aula-genai">Repo</a>
       <br/>
-      <sub>Tags: LangChain, LLMs, Agents, ReAct</sub>
-    </td>
-
-   <td align="center" width="33%">
-      <a href="https://github.com/SEU-USER/EMBEDDINGS-PROJETO">
-        <img src="https://img.hotimg.com/embeddingscover.png"
-             alt="Embeddings Project"
-             style="width:100%; height:200px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Busca Semântica com Embeddings</b><br/>
-      <sub>Pipeline completo com chunking, embeddings, similaridade e visualização PCA/t-SNE.</sub><br/>
-      🔗 <a href="https://github.com/SEU-USER/EMBEDDINGS-PROJETO">Repo</a>
-      <br/>
-      <sub>Tags: Embeddings, Vector Search, NLP</sub>
+      <sub>Tags: Streamlit, LangChain, LLMs, OpenAI</sub>
     </td>
 
   </tr>
@@ -77,19 +68,13 @@
 
 ## 📈 Stats
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=0matheusfilipe\&show_icons=true\&theme=gruvbox)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdeuss\&show_icons=true\&theme=gruvbox)
 
 ---
 
 ## 🔗 Links
-
-* 📂 **Portfólio** — em construção
-* ✉️ **E-mail:** [matheusfilipedesilva@gmail.com](mailto:matheusfilipedesilva@gmail.com)
-* 🤗 **Hugging Face:** https://huggingface.co/matheusdeus
-
-<a href="https://www.linkedin.com/in/matheusdeus/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45px"/>
-</a>
-<a href="https://dev.to/matheusdeus" target="_blank">
-  <img src="https://skillicons.dev/icons?i=devto" width="45px"/>
-</a>
+ 
+- ✉️ **E-mail:** [matheusfilipedesilva@gmail.com](mailto:matheusfilipedesilva@gmail.com)
+- 🤗 **Hugging Face:** [huggingface.co/matheusdeus](https://huggingface.co/matheusdeus)
+- 💼 **LinkedIn:** [linkedin.com/in/matheusdeus](https://www.linkedin.com/in/matheusdeus/)
+- ✍️ **Dev.to:** [dev.to/matheusdeus](https://dev.to/matheusdeus)
