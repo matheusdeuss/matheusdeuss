@@ -36,7 +36,6 @@ Alguns dos sistemas de IA generativa que ajudei a colocar em produção durante 
   <tr>
       <td align="center" width="33%">
       <a href="https://github.com/matheusdeuss/bjj-faixa-branca-rag">
-        <img src="https://img.hotimg.com/agentreact.png"
              alt="Agente RAG para Posições de BJJ (Faixa Branca)"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -49,7 +48,6 @@ Alguns dos sistemas de IA generativa que ajudei a colocar em produção durante 
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/matheusdeuss/gerador-planos-aula-genai">
-        <img src="https://img.hotimg.com/agentreact.png"
              alt="Gerador de planos de aulas com GenAI"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
