@@ -30,24 +30,26 @@ Alguns dos sistemas de IA generativa que ajudei a colocar em produção durante 
 - **Capacitação em IA generativa** — facilitação de alfabetização em IA para dezenas de lideranças internas.
 *(Repositórios privados da empresa — projetos pessoais equivalentes abaixo)*
 
-# 🔥 Projetos — Destaques
+# 🔥 Projetos Pessoais — Em Destaque
 
 <table>
   <tr>
-      <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/matheusdeuss/bjj-faixa-branca-rag">
+        <img src="LINK_DA_SUA_IMAGEM_AQUI"
              alt="Agente RAG para Posições de BJJ (Faixa Branca)"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Agente RAG para Posições de BJJ (Faixa Branca)</b><br/>
+      <b>🥋 Agente RAG para Posições de BJJ (Faixa Branca)</b><br/>
       <sub>Projeto RAG utilizando LangChain para construir um agente conversacional que responde perguntas sobre posições básicas de Jiu-Jitsu para faixas brancas, com base em um manual especializado em PDF.</sub><br/>
       🔗 <a href="https://github.com/matheusdeuss/bjj-faixa-branca-rag">Repo</a>
       <br/>
       <sub>Tags: RAG, LangChain, OpenAI</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/matheusdeuss/gerador-planos-aula-genai">
+        <img src="LINK_DA_SUA_IMAGEM_AQUI"
              alt="Gerador de planos de aulas com GenAI"
              style="width:100%; height:200px; object-fit:cover;"/>
       </a>
@@ -58,7 +60,6 @@ Alguns dos sistemas de IA generativa que ajudei a colocar em produção durante 
       <br/>
       <sub>Tags: Streamlit, LangChain, LLMs, OpenAI</sub>
     </td>
-
   </tr>
 </table>
 
