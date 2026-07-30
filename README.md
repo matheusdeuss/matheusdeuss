@@ -66,12 +66,6 @@ Alguns dos sistemas de IA generativa que ajudei a colocar em produção durante 
 
 ---
 
-## 📈 Stats
-
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusdeuss\&show_icons=true\&theme=gruvbox)
-
----
-
 ## 🔗 Links
  
 - ✉️ **E-mail:** [matheusfilipedesilva@gmail.com](mailto:matheusfilipedesilva@gmail.com)
