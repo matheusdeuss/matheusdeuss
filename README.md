@@ -14,7 +14,7 @@
 
 **LLM Engineering**
 - 🧠 **Orquestração:** LangChain, LangGraph, Google Agent Development Kit
-- 📦 **Providers:** OpenAI, Anthropic, Google Gemini, Amazon Bedrock, Deepseek, Kimi 
+- 📦 **LLM APIs:** OpenAI, Anthropic, Google Gemini, Amazon Bedrock, Deepseek, Kimi
 - 🔍 **Vector Stores:** ChromaDB, FAISS, Pinecone, Supabase Vector Store
 - 🚀 **MLOps/DevOps:** TrueFoundry (LLM Gateway), Datadog (observabilidade), Azure DevOps, CI/CD
 - 📊 **Dados:** Pandas, NumPy
