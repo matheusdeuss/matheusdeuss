@@ -6,7 +6,7 @@
 
 <h1>Matheus Deus</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=58A6FF&vCenter=true&width=620&height=36&lines=Software+Engineer+I+%C2%B7+Plataforma+de+IA;LLMs+em+produ%C3%A7%C3%A3o%3A+agentes%2C+RAG+e+MCP;Estudando+como+agentes+funcionam+por+dentro" alt="Software Engineer · Plataforma de IA" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=58A6FF&vCenter=true&width=620&height=36&lines=Software+Engineer+%C2%B7+Plataforma+de+IA;LLMs+em+produ%C3%A7%C3%A3o%3A+agentes%2C+RAG+e+MCP;Estudando+como+agentes+funcionam+por+dentro" alt="Software Engineer · Plataforma de IA" />
 
 Trabalho no time de Plataforma de IA da [Localiza&Co](https://www.localiza.com), em Belo Horizonte, construindo a base para que times usem LLMs em produção: agentes, RAG, avaliação e integrações MCP.
 
