@@ -6,7 +6,7 @@
 
 <h1>Matheus Deus</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=58A6FF&vCenter=true&width=620&height=36&lines=Software+Engineer+I+%C2%B7+AI+Platform;LLMs+in+production%3A+agents%2C+RAG+and+MCP;Learning+how+agents+work+under+the+hood" alt="Software Engineer · AI Platform" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=58A6FF&vCenter=true&width=620&height=36&lines=Software+Engineer+%C2%B7+AI+Platform;LLMs+in+production%3A+agents%2C+RAG+and+MCP;Learning+how+agents+work+under+the+hood" alt="Software Engineer · AI Platform" />
 
 I work on the AI Platform team at [Localiza&Co](https://www.localiza.com), in Belo Horizonte, Brazil, building the foundation that lets teams run LLMs in production: agents, RAG, evaluation and MCP integrations.
 
