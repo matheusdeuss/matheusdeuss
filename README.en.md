@@ -29,6 +29,7 @@ I'm also studying Information Systems at PUC Minas (full ProUni scholarship) and
 
 | Project | What it is | Tech |
 | --- | --- | --- |
+| [**Base Firme**](https://base-firme-one.vercel.app) | Brazilian jiu-jitsu tutor with multimodal vision: training frames → structured feedback (Zod), quality-based confidence, versioned prompts, traces and an eval suite. Public demo; private code. | `Next.js` `Vercel AI SDK` `Gemini` |
 | [**matchuco_harness**](https://github.com/matheusdeuss/matchuco_harness) | Multi-provider agent harness built from scratch to understand how Claude Code works: agent loop, tools, permissions, context and MCP. | `Python` `Anthropic` `OpenAI-compatible` |
 | [**bjj-faixa-branca-rag**](https://github.com/matheusdeuss/bjj-faixa-branca-rag) | RAG agent that answers questions about jiu-jitsu positions from a PDF manual. | `LangChain` `OpenAI` `RAG` |
 | [**hf-exploracao**](https://github.com/matheusdeuss/hf-exploracao) | Hands-on study of tokenization, embeddings and cosine similarity with BERTimbau. | `Transformers` `PyTorch` |

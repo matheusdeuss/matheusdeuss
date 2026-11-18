@@ -29,6 +29,7 @@ Também curso Sistemas de Informação na PUC Minas (bolsista integral pelo ProU
 
 | Projeto | O que é | Tecnologias |
 | --- | --- | --- |
+| [**Base Firme**](https://base-firme-one.vercel.app) | Tutor de jiu-jitsu com visão multimodal: frames do treino → feedback estruturado (Zod), calibração por qualidade, prompt versionado, traces e eval suite. Demo pública; código privado. | `Next.js` `Vercel AI SDK` `Gemini` |
 | [**matchuco_harness**](https://github.com/matheusdeuss/matchuco_harness) | Harness de agente multi-provider, feito do zero para entender como o Claude Code funciona: loop agêntico, tools, permissões, contexto e MCP. | `Python` `Anthropic` `OpenAI-compatible` |
 | [**bjj-faixa-branca-rag**](https://github.com/matheusdeuss/bjj-faixa-branca-rag) | Agente RAG que responde sobre posições de jiu-jitsu a partir de um manual em PDF. | `LangChain` `OpenAI` `RAG` |
 | [**hf-exploracao**](https://github.com/matheusdeuss/hf-exploracao) | Estudo prático de tokenização, embeddings e similaridade de cosseno com BERTimbau. | `Transformers` `PyTorch` |
